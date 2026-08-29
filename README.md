@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository
 </br>
-Auther - Swaraj Patil
+Auther - Swaraj (Apana College)
